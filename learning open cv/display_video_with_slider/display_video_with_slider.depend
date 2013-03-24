@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1320912532 source:/home/vipul/Desktop/learning open cv/display_video_with_slider/main.cpp
+	<highgui.h>
+	<cv.h>
+
